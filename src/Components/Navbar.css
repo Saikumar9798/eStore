@@ -1,0 +1,28 @@
+.custom-navbar {
+  background-color: #001c55;
+}
+
+.custom-text {
+  color: #edf9fe !important;
+}
+
+.custom-icon {
+  margin-right: 25px !important;
+  position: relative;
+}
+
+.custom-logo {
+  width: 50px !important;
+  aspect-ratio: 1;
+  margin: 5px 0;
+  margin-left: 84px;
+  align-items: center;
+  justify-content: center;
+  color: #edf9fe;
+}
+
+.custom-cart-indicator{
+    position: absolute !important;
+    top: 0% !important;
+    right: -40% !important;
+}
